@@ -52,5 +52,5 @@ python nome_do_arquivo.py
 ---
 
 ## :technologist: Autora
-Feito por Isabelly Neto
+Feito por Isabelly Pereira Neto
 
